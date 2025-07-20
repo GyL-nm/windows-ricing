@@ -31,7 +31,6 @@ I use [OpenShell](https://openshellmenu.com/) to restore the Window 7 style star
 <img width="510" alt="image" src="https://github.com/user-attachments/assets/07eaf8c2-67fa-47b3-9f4b-729e2bf34afe" />
 
 ### The Meat and Potatoes
-#### PREREQUISITE - [WebNowPlayingRedux](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/tag/2.0.7)
 #### OPTIONAL PREREQUISITE - [VoiceMeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
   For creating a virtual audio channel to be used to channel the audio you want to be picked up by the audio meters and music visualiser. The music, in this case Spotify, needs to be routed to an unused Virtual Output channel (in this case, B2):
   <img width="510" alt="image" src="https://github.com/user-attachments/assets/b9d97c4a-2c25-47ca-9ac8-a2fb7e4b28ea" />
@@ -45,6 +44,7 @@ I use [OpenShell](https://openshellmenu.com/) to restore the Window 7 style star
 ##### Audio meters
 There are two included audio meters: one for outgoing audio (specifically for music), and one for microphone audio. These are minimalist in design, and are transparent to reduce interference with onscreen content. These are Always-on-top.
 
+#### PREREQUISITE - [WebNowPlayingRedux](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/tag/2.0.7)
 ##### NowPlaying display
 The NowPlaying display shows the current Spotify track playing, the artist name, and a simple progress bar. This is Always-on-top.
 
