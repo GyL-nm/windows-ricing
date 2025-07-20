@@ -1,4 +1,4 @@
-# "Ricing" Windows
+# Windows "Ricing" Project
 Who said only Linux users could rice-up their distros? I beg to differ! 
 Ever wanted a desktop that reacts to music? Always-on-top graphics for your mic and music? Custom gifs you can be placed anywhere? A startup animation when you log into your account? Well, it's all here!
 
