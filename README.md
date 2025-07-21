@@ -33,6 +33,7 @@ I use [OpenShell](https://openshellmenu.com/) to restore the Window 7 style star
 ### The Meat and Potatoes
 #### OPTIONAL PREREQUISITE - [VoiceMeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
   For creating a virtual audio channel to be used to channel the audio you want to be picked up by the audio meters and music visualiser. The music, in this case Spotify, needs to be routed to an unused Virtual Output channel (in this case, B2):
+  
   <img width="510" alt="image" src="https://github.com/user-attachments/assets/b9d97c4a-2c25-47ca-9ac8-a2fb7e4b28ea" />
   
   You can then use the "DeviceList" widget to find the ID of that virtual channel.
