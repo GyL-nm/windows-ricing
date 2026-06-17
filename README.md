@@ -66,7 +66,7 @@ Plays a startup animation on sign-in, which transitions to a perpetual, transpar
 
 The beauty of Rainmeter is these can all be tweaked, individually disabled, triggered on hover, etc.
 
-Here's the complete package in all its glory:
+Here's the complete package in all its glory: 
 
 <img height="1920" alt="image" src="https://github.com/user-attachments/assets/8229244c-67c2-4b63-9b6f-7574c13c092a" />
 
