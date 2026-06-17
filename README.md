@@ -22,7 +22,7 @@ You can opt to use [Wallpaper Engine](https://store.steampowered.com/app/431960/
 
 ### Functionality (Windows 10)
 Fancy Zones in [Microsoft PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=en-US&gl=US) allows you to fully customise how windows snap to the screen. You can create layouts beyond Windows 10's 2-panel left-right configuration. This works great if you use a big monitor, to better utilise your screenspace.
-<img width="816" height="1388" alt="image" src="https://github.com/user-attachments/assets/8fb63c4a-5ca3-4f93-838b-5c4f137c0f28" />
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/8fb63c4a-5ca3-4f93-838b-5c4f137c0f28" />
 
 
 [WinaeroTweaker](https://winaerotweaker.com/) modifies hidden Registry entries to unlock functionality, old favourites from older versions, and other fun tweaks to make your windows install feel more... you.
